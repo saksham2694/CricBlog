@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 2. Start the server
 ```
-python app.py
+python run.py
 ```
 
 3. Open the application in your browser by going to http://localhost:5000/
