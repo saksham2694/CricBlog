@@ -7,7 +7,7 @@ This is a web application for cricket enthusiasts to share their thoughts and op
 To get started with this project, clone the repository and navigate to the root directory of the project.
 
 ```
-git clone https://github.com/<your-username>/cricket-blog.git
+git clone https://github.com/<your-username>/CricBlog.git
 cd cricket-blog
 ```
 
