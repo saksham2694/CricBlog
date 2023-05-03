@@ -1,6 +1,6 @@
 # CricBlog
 
-This is a web application for cricket enthusiasts to share their thoughts and opinions about cricket. Users can create an account, log in, and write blog posts. They can also upload a profile picture to their account. Feature to reset password using email authentication has been added via flask-mail.
+This is a Flask based web application for cricket enthusiasts to share their thoughts and opinions about cricket. Users can create an account, log in, and write blog posts. They can also upload a profile picture to their account. Feature to reset password using email authentication has been added via flask-mail.
 
 ## Getting Started
 
